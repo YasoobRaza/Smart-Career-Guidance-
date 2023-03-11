@@ -37,4 +37,4 @@ The application has the following features:
 This project was developed by Yasoob Raza , with the following resources:
 
 - [Experta documentation](https://github.com/aimacode/aima-python/blob/master/expertsystem.ipynb)
-- [Career guidance resources](https://www.careerguide.com/)
+
